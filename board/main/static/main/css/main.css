@@ -43,3 +43,11 @@ aside ul {list-style: none}
         text-decoration: none;
         transform: scale(1.05);
     }
+
+        aside . features {
+        float: left;
+        color: #fff;
+        margin-top: 100px;
+        text-align: center;
+        width: 75%;
+    }
